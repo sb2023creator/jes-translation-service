@@ -1,0 +1,19 @@
+{
+  "source_count": 799,
+  "keys_per_language": 779,
+  "excluded_dynamic_entries": 20,
+  "languages": [
+    "en",
+    "ms",
+    "zh",
+    "vi",
+    "th",
+    "bn"
+  ],
+  "json_and_key_checks": "passed",
+  "numeric_and_percent_checks": "passed; translated ordinal words allowed",
+  "unexpected_company_names": "none",
+  "native_review": false,
+  "live_website_test": false,
+  "deployed": false
+}
