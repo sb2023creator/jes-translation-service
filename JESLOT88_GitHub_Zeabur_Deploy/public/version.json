@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated_at": "2026-09-24T17:36:38.442804+00:00",
+  "version": "1.0.1",
+  "updated_at": "2026-09-24T21:36:44.509634+00:00",
   "company": "JESLOT88",
   "languages": [
     "en",
@@ -10,5 +10,5 @@
     "th",
     "bn"
   ],
-  "keys_per_language": 779
+  "keys_per_language": 1271
 }

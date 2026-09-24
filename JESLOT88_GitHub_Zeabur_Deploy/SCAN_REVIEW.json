@@ -1,0 +1,3037 @@
+{
+  "scan_entries": 632,
+  "counts": {
+    "existing_key": 65,
+    "existing_translation_alias": 389,
+    "preserved_dynamic_or_identifier": 75,
+    "missing_variant": 87,
+    "new_translation": 16
+  },
+  "original_keys": 779,
+  "final_keys": 1271,
+  "added_keys": 492,
+  "existing_values_unchanged": true,
+  "unresolved": 0,
+  "entries": [
+    {
+      "text": "MYR",
+      "status": "existing_key"
+    },
+    {
+      "text": "IDR",
+      "status": "existing_key"
+    },
+    {
+      "text": "A8PAY",
+      "status": "existing_key"
+    },
+    {
+      "text": "电子钱包 / 二维码",
+      "status": "existing_translation_alias",
+      "matched_source": "DOMPET ELEKTRONIK / QR"
+    },
+    {
+      "text": "热门",
+      "status": "existing_translation_alias",
+      "matched_source": "POPULAR"
+    },
+    {
+      "text": "QRPay",
+      "status": "existing_key"
+    },
+    {
+      "text": "OneMPay",
+      "status": "existing_key"
+    },
+    {
+      "text": "99Pay",
+      "status": "existing_key"
+    },
+    {
+      "text": "E-WALLET / QR / BANK",
+      "status": "existing_translation_alias",
+      "matched_source": "DOMPET ELEKTRONIK / QR / BANK"
+    },
+    {
+      "text": "xxxpay",
+      "status": "existing_key"
+    },
+    {
+      "text": "PowerPG",
+      "status": "existing_key"
+    },
+    {
+      "text": "FPay",
+      "status": "existing_key"
+    },
+    {
+      "text": "i1BAYAR",
+      "status": "existing_key"
+    },
+    {
+      "text": "TNG / TELCO",
+      "status": "existing_key"
+    },
+    {
+      "text": "QRPayAsia TNGPIN",
+      "status": "existing_key"
+    },
+    {
+      "text": "TelcoPayAsia",
+      "status": "existing_key"
+    },
+    {
+      "text": "Touch N'GO PIN",
+      "status": "existing_key"
+    },
+    {
+      "text": "充值",
+      "status": "existing_translation_alias",
+      "matched_source": "TAMBAH NILAI"
+    },
+    {
+      "text": "🚀 JESLOT88 — 好运快速降临！好运秒速降临，Jeslot88 就赢！🎰 马来西亚可信在线娱乐场 | 🎉 马来西亚安全在线娱乐场 | ⚡ 快速自动存款 — 网上银行、QR Pay、电子钱包、TNG、DuitNow | 💰 小额存款，赢大奖机会 | 🏆 热门老虎机 Mega888 • Kiss918 • Acewin • Pussy888 | 💸 快速提款 | 📢 每天赢大奖，尽在 JESLOT88！",
+      "status": "existing_translation_alias",
+      "matched_source": "🚀 JESLOT88 – Where Fortune Strikes Fast! 好运秒速降临，Jeslot88 就赢！🎰 Trusted Online Casino Malaysia | 🎉 Malaysia Safe Kasino Online | ⚡ Fast Auto Deposit – Online Banking, QR Pay, E-Wallet, TNG, DuitNow | 💰 Deposit Kecil, Peluang Menang Besar | 🏆 Slot Popular Mega888 • Kiss918 • Acewin • Pussy888 | 💸 Fast Withdrawal | 📢 Menang Besar Setiap Hari Hanya Di JESLOT88!"
+    },
+    {
+      "text": "实时交易",
+      "status": "existing_translation_alias",
+      "matched_source": "TRANSAKSI LANGSUNG"
+    },
+    {
+      "text": "实时",
+      "status": "existing_translation_alias",
+      "matched_source": "LANGSUNG"
+    },
+    {
+      "text": "提款",
+      "status": "existing_translation_alias",
+      "matched_source": "CUCI"
+    },
+    {
+      "text": "RM10.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM50.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "JILI",
+      "status": "existing_key"
+    },
+    {
+      "text": "RM20.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM600.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "MEGA888H5",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM30.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM5.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "SPINX8882",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM170.30",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "栏目",
+      "status": "existing_translation_alias",
+      "matched_source": "Section"
+    },
+    {
+      "text": "下期开奖：",
+      "status": "existing_translation_alias",
+      "matched_source": "Next Draw:"
+    },
+    {
+      "text": "25-09 (Friday) 19:00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "生成号码",
+      "status": "existing_translation_alias",
+      "matched_source": "Generate Nombor"
+    },
+    {
+      "text": "生成",
+      "status": "existing_translation_alias",
+      "matched_source": "GENERATE"
+    },
+    {
+      "text": "点击生成您的幸运号码",
+      "status": "existing_translation_alias",
+      "matched_source": "Tap untuk jana nombor bertuah anda"
+    },
+    {
+      "text": "投注",
+      "status": "existing_translation_alias",
+      "matched_source": "TARUH"
+    },
+    {
+      "text": "派彩表",
+      "status": "existing_translation_alias",
+      "matched_source": "Jadual Bayaran"
+    },
+    {
+      "text": "万字",
+      "status": "missing_variant",
+      "matched_source": "4D"
+    },
+    {
+      "text": "4D 开奖结果",
+      "status": "existing_translation_alias",
+      "matched_source": "KEPUTUSAN 4D"
+    },
+    {
+      "text": "如何投注",
+      "status": "existing_translation_alias",
+      "matched_source": "Cara Taruh"
+    },
+    {
+      "text": "JESLOT88 马来西亚线上娱乐指南",
+      "status": "existing_translation_alias",
+      "matched_source": "JESLOT88 Malaysia Online Entertainment Guide"
+    },
+    {
+      "text": "登入",
+      "status": "missing_variant",
+      "matched_source": "Log Masuk"
+    },
+    {
+      "text": "注册",
+      "status": "existing_translation_alias",
+      "matched_source": "DAFTAR"
+    },
+    {
+      "text": "刷新",
+      "status": "existing_translation_alias",
+      "matched_source": "Segarkan"
+    },
+    {
+      "text": "余额",
+      "status": "existing_translation_alias",
+      "matched_source": "Baki"
+    },
+    {
+      "text": "RM0.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "最低充值：",
+      "status": "missing_variant",
+      "matched_source": "Deposit Minimum:"
+    },
+    {
+      "text": "RM1.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "最低提款：",
+      "status": "existing_translation_alias",
+      "matched_source": "Pengeluaran Minimum:"
+    },
+    {
+      "text": "RM25.00",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "返回",
+      "status": "existing_translation_alias",
+      "matched_source": "KEMBALI"
+    },
+    {
+      "text": "欢迎",
+      "status": "existing_translation_alias",
+      "matched_source": "Selamat Datang"
+    },
+    {
+      "text": "England Premier League",
+      "status": "missing_variant",
+      "matched_source": "Liga Perdana Inggeris"
+    },
+    {
+      "text": "热门赛事",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "即将开始",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "全部赛事",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "记录",
+      "status": "existing_translation_alias",
+      "matched_source": "REKOD"
+    },
+    {
+      "text": "购物车",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "Arsenal",
+      "status": "existing_key"
+    },
+    {
+      "text": "开赛时间",
+      "status": "missing_variant",
+      "matched_source": "Masa Mula"
+    },
+    {
+      "text": "10 Oct 2026",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "下注",
+      "status": "missing_variant",
+      "matched_source": "Taruh"
+    },
+    {
+      "text": "Leeds",
+      "status": "existing_key"
+    },
+    {
+      "text": "home",
+      "status": "existing_key"
+    },
+    {
+      "text": "首页",
+      "status": "existing_translation_alias",
+      "matched_source": "Utama"
+    },
+    {
+      "text": "account_balance_wallet",
+      "status": "existing_key"
+    },
+    {
+      "text": "钱包",
+      "status": "existing_translation_alias",
+      "matched_source": "DOMPET"
+    },
+    {
+      "text": "access_time",
+      "status": "existing_key"
+    },
+    {
+      "text": "settings",
+      "status": "existing_key"
+    },
+    {
+      "text": "设定",
+      "status": "missing_variant",
+      "matched_source": "Tetapan"
+    },
+    {
+      "text": "上线佣金",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "邀请",
+      "status": "existing_translation_alias",
+      "matched_source": "Jemput"
+    },
+    {
+      "text": "下线",
+      "status": "existing_translation_alias",
+      "matched_source": "Ahli Bawahan"
+    },
+    {
+      "text": "复制链接",
+      "status": "existing_translation_alias",
+      "matched_source": "Salin Pautan"
+    },
+    {
+      "text": "更多资讯",
+      "status": "missing_variant",
+      "matched_source": "lagi"
+    },
+    {
+      "text": "每充值RM10即可获得一个幸运号码.",
+      "status": "missing_variant",
+      "matched_source": "Setiap deposit RM10 mendapat 1 nombor bertuah."
+    },
+    {
+      "text": "星期三",
+      "status": "existing_translation_alias",
+      "matched_source": "Rabu"
+    },
+    {
+      "text": "星期六",
+      "status": "existing_translation_alias",
+      "matched_source": "Sabtu"
+    },
+    {
+      "text": "星期日",
+      "status": "existing_translation_alias",
+      "matched_source": "Ahad"
+    },
+    {
+      "text": "RM888",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "我的幸运号码",
+      "status": "existing_translation_alias",
+      "matched_source": "Nombor Bertuah Saya"
+    },
+    {
+      "text": "合作伙伴",
+      "status": "existing_translation_alias",
+      "matched_source": "Rakan Kongsi"
+    },
+    {
+      "text": "游戏许可",
+      "status": "missing_variant",
+      "matched_source": "Lesen Permainan"
+    },
+    {
+      "text": "Join Kami",
+      "status": "missing_variant",
+      "matched_source": "Sertai Kami"
+    },
+    {
+      "text": "We Accept",
+      "status": "existing_translation_alias",
+      "matched_source": "Kami Terima"
+    },
+    {
+      "text": "适用 JESLOT88® 条款与细则。若发现非法投注、异常投注、套取奖金、旁注、在游戏内保留免费游戏或存款后直接提款，JESLOT88 将冻结存款（包括盈利及奖金），系统会自动将余额清零（0）。",
+      "status": "existing_translation_alias",
+      "matched_source": "JESLOT88® Terms & Conditions apply. If found illegal betting, abnormal betting situation, bonus hunting, side betting, save free game inside game & deposit to withdraw, JESLOT88 shall freeze the deposit (including the amount of the profit and bonus), the system will automatically clear the balance to zero (0)."
+    },
+    {
+      "text": "2023-2025 JESLOT88©️ 版权所有。",
+      "status": "existing_translation_alias",
+      "matched_source": "2023-2025 JESLOT88©️ ALL RIGHTS RESERVED."
+    },
+    {
+      "text": "Read More",
+      "status": "existing_translation_alias",
+      "matched_source": "BACA LAGI"
+    },
+    {
+      "text": "Jeslot88：马来西亚可信赖的免费彩金在线娱乐场",
+      "status": "existing_translation_alias",
+      "matched_source": "Jeslot88: Malaysia’s Trusted Free Credit Online Casino"
+    },
+    {
+      "text": "欢乐夜晚，兴奋刺激。这就是",
+      "status": "existing_translation_alias",
+      "matched_source": "Fun nights. Excitement and thrill. This is"
+    },
+    {
+      "text": "JESLOT88",
+      "status": "existing_key"
+    },
+    {
+      "text": "为您而设，是马来西亚人的娱乐之选。寻找兼顾乐趣与公平的平台？Jeslot88 在线娱乐场为玩家提供安全与信任。",
+      "status": "existing_translation_alias",
+      "matched_source": "for you. A go-to fun platform for Malaysians. Looking for a place where fun meets fairness? Well, Jeslot88 online casino offers safety and trust to the players."
+    },
+    {
+      "text": "本娱乐场持有 PAGCOR 牌照，为玩家提供安全环境，保护每次游戏与登录。我们拥有 iTech Labs、BMM、IOVATION、GoDaddy 等第三方认证。加入我们，无需花费一令吉即可开始游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "PAGCOR licenses this casino, providing a safe gameplay environment to the players. Every game session, each login is protected. We have third-party certificates from iTech Labs, BMM, IOVATION, GoDaddy, etc. Join us to start playing without spending a single Ringgit."
+    },
+    {
+      "text": "新会员可获 RM20 免费彩金，现有玩家可领 365 天免费 RM10 彩金，无需存款。领取这些",
+      "status": "existing_translation_alias",
+      "matched_source": "New members receive RM20 free credits. Existing players can avail of 365Days Free RM10 credit. No deposit needed. Claim these"
+    },
+    {
+      "text": "免存款免费彩金奖金",
+      "status": "existing_translation_alias",
+      "matched_source": "free credit no deposit bonuses"
+    },
+    {
+      "text": "并无风险地享受我们的游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "and enjoy our games risk-free."
+    },
+    {
+      "text": "想要每日奖励？加入我们，体验每日奖金系统，让游戏保持精彩。在体育博彩和数百种娱乐场游戏中争取赢取奖励。Jeslot88 让游戏有趣、公平又安全。",
+      "status": "existing_translation_alias",
+      "matched_source": "Are you up for daily rewards? Join us to enjoy our daily bonus system that will keep up the gaming excitement. Get a real chance to win at sports betting and hundreds of casino games. Jeslot88 makes gameplay fun, fair, and secure."
+    },
+    {
+      "text": "与我们一起开始，感受不同。",
+      "status": "existing_translation_alias",
+      "matched_source": "Start your journey with us and feel the difference."
+    },
+    {
+      "text": "Jeslot88 是什么？",
+      "status": "existing_translation_alias",
+      "matched_source": "What is Jeslot88?"
+    },
+    {
+      "text": "Jeslot88 让无聊的周末变得有趣。我们是马来西亚备受热议的娱乐场。以下是我们的背景介绍。",
+      "status": "existing_translation_alias",
+      "matched_source": "Jeslot88 turns your boring weekend into something fun. We are Malaysia’s most talked-about casino. A little about our background."
+    },
+    {
+      "text": "我们于 2024 年开始运营，获得 PAGCOR 牌照在马来西亚地区经营。游戏认证来自 BMM、IOVATION、TST Global、GoDaddy 和 iTech Labs。",
+      "status": "existing_translation_alias",
+      "matched_source": "We started our operations in 2024. We get our license from PAGCOR to operate within the Malaysian region. Our gaming certificates come from authorities such as BMM, IOVATION, TST Global, GoDaddy, and iTech Labs."
+    },
+    {
+      "text": "是什么让我们与众不同？",
+      "status": "existing_translation_alias",
+      "matched_source": "But what makes us different?"
+    },
+    {
+      "text": "新会员免费彩金与游戏奖金相结合，丰厚奖金、快速提款及每日免费彩金，让 Jeslot88 提供精彩乐趣。我们也拥有长期忠实会员，他们信任我们。",
+      "status": "existing_translation_alias",
+      "matched_source": "It is the accumulation of the free credit for the new members and the bonuses for the games. The large bonuses, fast cash out, and the daily supply of free credits – Jeslot88 provides the unbeatable fun. We also have a regular faithful membership. They trust us."
+    },
+    {
+      "text": "为什么？我们兑现承诺，提供 100% 安全保障、公平可信的游戏与真实支持。您可体验来自顶尖及亚洲供应商的数百种游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "But why? We deliver what we promise. 100% safety and security. Fairness and trustworthiness. Honest gameplay. Real support. You can play over hundreds of games from top-notch and Asian gaming providers."
+    },
+    {
+      "text": "此外，在线客服全天候 24/7 提供服务，奖金让游戏持续精彩。加入 Jeslot88 在线娱乐场的投注体验。",
+      "status": "existing_translation_alias",
+      "matched_source": "Further, live chat customer support services are available 24/7, while bonuses ensure that the gaming experience remains exciting. Take part in the betting experience at Jeslot88 online casino."
+    },
+    {
+      "text": "为什么选择 Jeslot88 在线娱乐场？",
+      "status": "existing_translation_alias",
+      "matched_source": "Why Choose Jeslot88 Online Casino?"
+    },
+    {
+      "text": "在这里享受不停歇的精彩体验",
+      "status": "existing_translation_alias",
+      "matched_source": "Enjoy non-stop action at this"
+    },
+    {
+      "text": "免费彩金娱乐场",
+      "status": "existing_translation_alias",
+      "matched_source": "free credit casino"
+    },
+    {
+      "text": "为真正的玩家打造，拥有丰厚老虎机奖金、多种娱乐场及体育游戏、每日奖励，以及更安全聪明的赢奖体验。这些特色让 Jeslot88 脱颖而出。",
+      "status": "existing_translation_alias",
+      "matched_source": "built for real players. Big slot bonuses. Wide variety of casino and sports games. Daily rewards. Safer and smarter win. These features make Jeslot88 stand out."
+    },
+    {
+      "text": "安全且经过验证的游戏平台",
+      "status": "existing_translation_alias",
+      "matched_source": "Secure and Verified Gaming Platform"
+    },
+    {
+      "text": "平台保护您的每个操作，我们认真对待玩家安全。",
+      "status": "existing_translation_alias",
+      "matched_source": "Your every move is protected on our platform. We take players' safety seriously."
+    },
+    {
+      "text": "先进的安全系统",
+      "status": "existing_translation_alias",
+      "matched_source": "Advanced security systems"
+    },
+    {
+      "text": "SSL 加密系统",
+      "status": "existing_translation_alias",
+      "matched_source": "SSL-encrypted system"
+    },
+    {
+      "text": "无中断、无故障",
+      "status": "existing_translation_alias",
+      "matched_source": "No interruptions, zero glitches"
+    },
+    {
+      "text": "流畅游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "Smooth gameplay"
+    },
+    {
+      "text": "担心派彩？不用担心。平台通过电子钱包和加密货币快速提款，保护数据隐私和资金安全。我们持有领先 iGaming 机构颁发的牌照，您可安心游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Are you worried about payouts? Don’t worry. Withdrawals at our platform are fast with e-wallets and cryptocurrency. Data is private. Funds are safe. You can play with confidence, as we are licensed by a top iGaming agency."
+    },
+    {
+      "text": "丰富的老虎机、真人娱乐场及体育游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "Wide Selection of Slots, Live Casino & Sports Games"
+    },
+    {
+      "text": "Jeslot88 免费彩金娱乐场不只有老虎机，还有数百种娱乐场及体育游戏可供投注。有什么精彩之处？",
+      "status": "existing_translation_alias",
+      "matched_source": "Jeslot88 free credit casino is not only about slots. It’s more than that. You can find more than hundreds of casino and sports games to bet on. What’s interesting?"
+    },
+    {
+      "text": "我们的游戏库还有更多内容。",
+      "status": "existing_translation_alias",
+      "matched_source": "There is more in our gaming library."
+    },
+    {
+      "text": "真人荷官与拉斯维加斯式场景的真人娱乐场",
+      "status": "existing_translation_alias",
+      "matched_source": "Live casino with real dealers and Vegas-like set-up"
+    },
+    {
+      "text": "捕鱼、街机与彩票的即时体验",
+      "status": "existing_translation_alias",
+      "matched_source": "Instant action with fishing, arcade, and lottery games"
+    },
+    {
+      "text": "还可对您喜欢的体育项目进行滚球投注。",
+      "status": "existing_translation_alias",
+      "matched_source": "In-play sports betting on your favorite sports is also available."
+    },
+    {
+      "text": "一个平台，多种娱乐场及体育游戏，选择无穷。",
+      "status": "existing_translation_alias",
+      "matched_source": "One platform. Multiple casino and sports games. Endless choices."
+    },
+    {
+      "text": "通过本地银行快速存提款",
+      "status": "existing_translation_alias",
+      "matched_source": "Fast Deposits and Withdrawals With Local Banking"
+    },
+    {
+      "text": "Jeslot88 派彩简单直接，无麻烦、无延迟，可使用以下安全支付方式：",
+      "status": "existing_translation_alias",
+      "matched_source": "Payouts at Jeslot88 are straightforward. No hassle, zero lags. Payments can be made using secure payment options like:"
+    },
+    {
+      "text": "电子钱包",
+      "status": "existing_translation_alias",
+      "matched_source": "E-Wallets"
+    },
+    {
+      "text": "FPX",
+      "status": "existing_key"
+    },
+    {
+      "text": "二维码",
+      "status": "existing_translation_alias",
+      "matched_source": "QR code"
+    },
+    {
+      "text": "MYR 币种本地银行服务",
+      "status": "existing_translation_alias",
+      "matched_source": "Local banking in MYR currency"
+    },
+    {
+      "text": "急需提取盈利？使用上述支付方式，享受 24/7 快速提款。无需压力和烦恼，提款顺畅，资金快速到账。",
+      "status": "existing_translation_alias",
+      "matched_source": "Need your winnings quickly? Get 24/7 fast withdrawals with the above-mentioned payment options. No stress, no frustration. Smooth withdrawals. Your money moves fast at our platform."
+    },
+    {
+      "text": "每位玩家的奖励与优惠",
+      "status": "existing_translation_alias",
+      "matched_source": "Rewards and Promotions for Every Player"
+    },
+    {
+      "text": "每天在平台享受每日奖励及免费彩金。我们提供：",
+      "status": "existing_translation_alias",
+      "matched_source": "Every single day, enjoy daily rewards and free credits at our platform. We offer:"
+    },
+    {
+      "text": "50% welcome bonus",
+      "status": "missing_variant",
+      "matched_source": "Bonus Selamat Datang 50%"
+    },
+    {
+      "text": "新注册免费彩金 RM20",
+      "status": "existing_translation_alias",
+      "matched_source": "New Register free credit RM20"
+    },
+    {
+      "text": "365 天免费彩金",
+      "status": "existing_translation_alias",
+      "matched_source": "365 days free credit"
+    },
+    {
+      "text": "免费旋转",
+      "status": "existing_translation_alias",
+      "matched_source": "Free spins"
+    },
+    {
+      "text": "签到奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "Check-in rewards"
+    },
+    {
+      "text": "VIP 忠诚奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "VIP loyalty rewards"
+    },
+    {
+      "text": "奖励让游戏保持精彩，为什么不享受福利？我们的奖金可提升每次游戏体验。",
+      "status": "existing_translation_alias",
+      "matched_source": "Our rewards keep the gaming excitement alive. Why play without perks? Our bonuses can boost each gaming session."
+    },
+    {
+      "text": "Jeslot88 在线娱乐场优惠与免费彩金活动",
+      "status": "existing_translation_alias",
+      "matched_source": "Jeslot88 Online Casino Promotions & Free Credit Offers"
+    },
+    {
+      "text": "我们的奖金与优惠带来精彩体验：每日奖金、特别优惠和免费彩金，让您享受新的乐趣与奖励。",
+      "status": "existing_translation_alias",
+      "matched_source": "Our bonuses and promotional offers are here to excite. Daily bonuses. Special deals. Free credit offers. These offers help you experience fresh fun and rewards."
+    },
+    {
+      "text": "新注册免费 RM20",
+      "status": "existing_translation_alias",
+      "matched_source": "New Register Free RM20"
+    },
+    {
+      "text": "新会员可获 RM20 免费彩金。最低提款 RM 600，最高提款 RM30。仅限活动老虎机游戏，须完成 1x 流水，每位玩家仅限一个账号。",
+      "status": "existing_translation_alias",
+      "matched_source": "New members are entitled to a RM20 free credit bonus. Minimum Cuci is RM 600. Maximum Cuci is RM30. Only allowed on event slot games. 1x wagering requirement must be fulfilled. One player, One ID is allowed."
+    },
+    {
+      "text": "365 天免费彩金 RM 10",
+      "status": "existing_translation_alias",
+      "matched_source": "365 Days Free Credit RM 10"
+    },
+    {
+      "text": "现有玩家每日可领取一次 365 天免费彩金。最低提款 RM 600，最高提款 RM10。须完成 1x Turnover，仅限活动老虎机游戏。无风险地享受喜欢的老虎机游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Existing players can claim a 365-day free credit bonus once daily. Minimum Cuci is RM 600. Maximum Cuci is RM10. Fulfill 1x turnover requirement. Allowed on event slot games. Enjoy your favorite slot games risk-free."
+    },
+    {
+      "text": "每日登录应用免费 RM10",
+      "status": "existing_translation_alias",
+      "matched_source": "Daily App Login Free RM10"
+    },
+    {
+      "text": "Android 玩家每日登录应用可享最高 RM10 免费奖金。须完成 1x 流水，最低提款 RM600。仅可在 Android 应用领取，仅限活动老虎机游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Android players can enjoy this daily app login free bonus up to RM10. Fulfill 1x wagering requirement. Minimum Cuci is RM600. Claim only on the Android app. This bonus is allowed only on event slot games."
+    },
+    {
+      "text": "砸金蛋活动",
+      "status": "existing_translation_alias",
+      "matched_source": "Golden Smash Egg Event"
+    },
+    {
+      "text": "需要存款 RM100，完成 5x 流水。最高提款 RM888，最高奖品奖励超过 RM888。仅限老虎机和捕鱼游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "You need to deposit RM100. Fulfill the wagering requirement of 5x. Maximum Cuci is RM888. The maximum prize reward is more than RM888. Only slot games and fishing games are allowed."
+    },
+    {
+      "text": "欢迎奖金 50% + 周末奖金 30% + 每日奖金 25%",
+      "status": "existing_translation_alias",
+      "matched_source": "Welcome Bonus 50% + Weekend Bonus 30% + Daily Bonus 25%"
+    },
+    {
+      "text": "查看以下奖金：",
+      "status": "existing_translation_alias",
+      "matched_source": "Check out these bonuses below:"
+    },
+    {
+      "text": "50% Welcome Bonus",
+      "status": "missing_variant",
+      "matched_source": "Bonus Selamat Datang 50%"
+    },
+    {
+      "text": "：最低存款 RM1 领取此奖金，最多领取 1x。Turnover 要求 3x，仅限老虎机游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": ": Get this bonus with a minimum deposit of RM1. Claim up to 1x. The turnover requirement is 3x. It is only allowed on slot games."
+    },
+    {
+      "text": "30% Weekend Bonus",
+      "status": "existing_translation_alias",
+      "matched_source": "Bonus Hujung Minggu 30%"
+    },
+    {
+      "text": "：最低存款 RM1，提供提款奖金。周六和周日可领取，Turnover 要求 3x，仅限老虎机游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": ": Minimum deposit required is RM1. It does offer a Cuci bonus. Claim it on Saturday and Sunday. Turnover requirement is 3x. It is allowed only on slot games."
+    },
+    {
+      "text": "25% 每日奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "25% Daily Bonus"
+    },
+    {
+      "text": "：最低存款 RM1 即可领取，最多领取 1x。设有最高提款额，Turnover 要求为 3x，仅限老虎机游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": ": Get it with a minimum deposit of RM1. Claim up to 1x. Maximum Cuci is provided. 3x is the turnover requirement. Only allowed on slot games."
+    },
+    {
+      "text": "Telco 无上限奖金 10%",
+      "status": "existing_translation_alias",
+      "matched_source": "Telco Unlimited Bonus 10%"
+    },
+    {
+      "text": "Telco 奖金即时发放，仅使用手机余额，类似充值奖金，深受玩家喜爱。最低存款 RM5 可获 10% 无上限 Telco 奖金，最高提款 90%，Turnover 要求 5x，仅限老虎机游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Telco bonuses are instant and use only the mobile balance. Players like them because they are like the top-up bonuses. Get a 10% unlimited Telco Bonus with a minimum deposit of RM5. 90% Maximum Cuci. Turnover requirement is 5x. Only allowed on slot games."
+    },
+    {
+      "text": "Jeslot88 热门游戏：令人难以抗拒",
+      "status": "existing_translation_alias",
+      "matched_source": "Popular Games at Jeslot88: You Can’t Resist"
+    },
+    {
+      "text": "想感受真正刺激？加入这里的冒险游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "Wanna feel the real thrill? Join the adventure gaming at"
+    },
+    {
+      "text": "马来西亚在线娱乐场，涵盖老虎机、真人荷官、体育博彩等。旋转、玩牌或滚球投注，一个平台全部满足。",
+      "status": "existing_translation_alias",
+      "matched_source": "online Malaysian casino. Slots, live dealer, sports betting, and more. Spin, throw the cards, or place live bets-everything at one platform."
+    },
+    {
+      "text": "老虎机游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "SLOT GAMES"
+    },
+    {
+      "text": "体验 JILI、PG Soft、Spade Gaming、Mega H5、Playtech、Ice Win 等顶尖供应商的老虎机游戏。主题涵盖中华、阿兹特克、希腊、冒险、丛林、宝石、幻想和动物等。这里热门的经典及现代游戏包括：",
+      "status": "existing_translation_alias",
+      "matched_source": "Enjoy betting on slot games from top-notch providers like JILI, PG Soft, Spade Gaming, Mega H5, Playtech, Ice Win, etc. Place bets on themes such as Chinese, Aztec, Greek, adventure, jungle, gems, fantasy land, animals, etc. Popular classic to modern games you will find here are:"
+    },
+    {
+      "text": "Dolphin Reef",
+      "status": "existing_key"
+    },
+    {
+      "text": "Boxing King",
+      "status": "existing_key"
+    },
+    {
+      "text": "Super Ace Deluxe",
+      "status": "existing_key"
+    },
+    {
+      "text": "Temple of Gold",
+      "status": "existing_key"
+    },
+    {
+      "text": "Wealthy Neko",
+      "status": "existing_key"
+    },
+    {
+      "text": "Mahjong Wilds 等更多游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "Mahjong Wilds and much more"
+    },
+    {
+      "text": "真人娱乐场",
+      "status": "missing_variant",
+      "matched_source": "Kasino Langsung"
+    },
+    {
+      "text": "我们热门的真人游戏包括百家乐、轮盘、二十一点、龙虎和骰宝等。可投注 Evolution、Playtech、Sexy Baccarat、Dream Gaming、SA Gaming 等供应商的真人娱乐场游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Baccarat, Roulette, Blackjack, Dragon Tiger, Sic-Bo, etc., are some of our popular live event games. Bet on live casino games by providers like Evolution, Playtech, Sexy Baccarat, Dream Gaming, SA Gaming, etc."
+    },
+    {
+      "text": "使用用户名和密码登录，投注这些真人荷官游戏。我们有训练有素、经验丰富的荷官，并用先进技术直播游戏，让您仿佛置身拉斯维加斯。",
+      "status": "existing_translation_alias",
+      "matched_source": "Log in using your username and password to bet on these live dealer games. We have trained and experienced dealers. Our platform uses advanced technology to telecast the games. Play as if you are sitting in Vegas."
+    },
+    {
+      "text": "体育博彩与滚球赔率",
+      "status": "existing_translation_alias",
+      "matched_source": "Sports Betting & In-Play Odds"
+    },
+    {
+      "text": "IBCBET 和 Bet33 是我们的体育博彩伙伴。可对足球、网球、篮球、羽毛球、乒乓球等进行滚球投注。我们提供优质滚球赔率及实时选择功能，盘口包括 1x2、让球、大小和单双等。可选择 FIFA、ATP、NBA、世界杯等数千场赛事。",
+      "status": "existing_translation_alias",
+      "matched_source": "IBCBET and Bet33 are our sports betting partners. Place live bets on football, tennis, basketball, badminton, table tennis, etc. We offer one of the best in-play odds with a live selection feature. Betting markets available are 1x2, handicap bets, over/under, even/odd, etc. Select from thousands of betting events and tournaments like FIFA, ATP, NBA, World Cup, etc."
+    },
+    {
+      "text": "捕鱼、街机与 4D 彩票游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "Fishing, Arcade & 4D Lottery Games"
+    },
+    {
+      "text": "喜欢即时赢奖？我们的捕鱼、街机和彩票区非常适合您。可玩 Mega Fishing、Ocean King、Shark Dance、Fortune Fishing 等游戏。捕鱼合作伙伴为 YGR 和 BT Gaming。",
+      "status": "existing_translation_alias",
+      "matched_source": "Do you like instant wins? Our fishing, arcade, and lottery game sections are the best fit. Bet on your favorite games like Mega Fishing, Ocean King, Shark Dance, Fortune Fishing, etc. Our fishing game partners are YGR and BT Gaming."
+    },
+    {
+      "text": "注册及体验 Jeslot88 的简单步骤",
+      "status": "existing_translation_alias",
+      "matched_source": "Simple & Straightforward Steps to Register and Playing at Jeslot88"
+    },
+    {
+      "text": "几分钟注册，即刻游戏，无需复杂流程。准备好在这里赢取大奖了吗",
+      "status": "existing_translation_alias",
+      "matched_source": "Register in minutes. Start playing instantly. No complex process. Are you ready to win big at"
+    },
+    {
+      "text": "Jeslot88 在线娱乐场？",
+      "status": "existing_translation_alias",
+      "matched_source": "Jeslot88 online casino?"
+    },
+    {
+      "text": "账户注册分步指南",
+      "status": "existing_translation_alias",
+      "matched_source": "Step-by-Step Account Registration Guide"
+    },
+    {
+      "text": "步骤 1：点击",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 1: Click on the"
+    },
+    {
+      "text": "按钮。提供姓名、手机号、密码及推荐码（如有）。",
+      "status": "existing_translation_alias",
+      "matched_source": "button. Provide your name, mobile number, password, and referral code (if any)."
+    },
+    {
+      "text": "步骤 2：使用发送到手机的验证码验证账户。",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 2: Verify your account using the code sent to your mobile."
+    },
+    {
+      "text": "步骤 3：用手机号和密码登录并开始游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 3: Log in using your mobile number and password and start playing."
+    },
+    {
+      "text": "如何在 Jeslot88 领取免费彩金？",
+      "status": "existing_translation_alias",
+      "matched_source": "How to Claim Free Credit at Jeslot88?"
+    },
+    {
+      "text": "Step 1:",
+      "status": "existing_translation_alias",
+      "matched_source": "Langkah 1:"
+    },
+    {
+      "text": "登录",
+      "status": "existing_translation_alias",
+      "matched_source": "Log Masuk"
+    },
+    {
+      "text": "若已注册，请使用手机号和密码。",
+      "status": "existing_translation_alias",
+      "matched_source": "with your mobile number and password if already registered."
+    },
+    {
+      "text": "步骤 2：点击领取以下奖金：",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 2: Click on claim for the following bonuses:"
+    },
+    {
+      "text": "新注册无需存款可获 RM20，仅可领取一次，最低提款 RM600。",
+      "status": "existing_translation_alias",
+      "matched_source": "New register RM20 without any deposit. Claim it only once. Minimum Cuci RM600."
+    },
+    {
+      "text": "365 天免费彩金最高 RM10，每日可领取一次，最低提款 RM600。",
+      "status": "existing_translation_alias",
+      "matched_source": "365Days free credit bonus up to RM10. Claim it once daily. Minimum Cuci RM600."
+    },
+    {
+      "text": "下载我们的应用，每日可领取一次最高 RM10 免费应用奖金。",
+      "status": "existing_translation_alias",
+      "matched_source": "Download our app. Get a daily apps free bonus up to RM10. Claim it once daily."
+    },
+    {
+      "text": "提供 10 至 50 次免费旋转，最低存款 RM20 起。",
+      "status": "existing_translation_alias",
+      "matched_source": "Free spins available from 10 to 50 spins. Minimum deposit starts at RM20."
+    },
+    {
+      "text": "让这些奖金即时存入您的账户。",
+      "status": "existing_translation_alias",
+      "matched_source": "Get these bonuses added to your account instantly."
+    },
+    {
+      "text": "轻松完成首次存款",
+      "status": "existing_translation_alias",
+      "matched_source": "Making Your First Deposit Easily"
+    },
+    {
+      "text": "步骤 1：最低存款 RM1 即可开始。",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 1: To get started, make a minimum deposit of RM1."
+    },
+    {
+      "text": "步骤 2：使用电子钱包、FPX、加密货币等。",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 2: Use e-wallets, FPX, cryptocurrency, etc."
+    },
+    {
+      "text": "步骤 3：开始游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 3: Start playing."
+    },
+    {
+      "text": "步骤 4：使用最低存款进行投注。",
+      "status": "existing_translation_alias",
+      "matched_source": "Step 4: Place bets using the minimum deposit."
+    },
+    {
+      "text": "存款与提款方式",
+      "status": "existing_translation_alias",
+      "matched_source": "Deposit and Withdrawal Methods"
+    },
+    {
+      "text": "即时访问、快速存款、快速提款。立即在 Jeslot88 开始体验。",
+      "status": "existing_translation_alias",
+      "matched_source": "Instant access. Quick deposits. Fast withdrawals. Get into action mode now at Jeslot88."
+    },
+    {
+      "text": "我们的支付方式包括：",
+      "status": "existing_translation_alias",
+      "matched_source": "Our payment methods include:"
+    },
+    {
+      "text": "本地银行转账",
+      "status": "existing_translation_alias",
+      "matched_source": "Local Bank Transfer"
+    },
+    {
+      "text": "FPX 是最快的本地银行转账方式，接受 MYR 或 RM 币种，可当日快速存款，盈利最高可提款 RM25。",
+      "status": "existing_translation_alias",
+      "matched_source": "FPX is the fastest local bank transfer mode. MYR or RM currency is accepted. You can make quick, same-day deposits. Winnings can be withdrawn up to RM25."
+    },
+    {
+      "text": "支持 Boost、Grab Pay、TNG、Digi Pay 和 Touch n’ Go，即时存款、快速提款。",
+      "status": "existing_translation_alias",
+      "matched_source": "Available payment methods include Boost, Grab Pay, TNG, Digi Pay, and Touch n’ Go. Carry out instant deposits and quick withdrawals."
+    },
+    {
+      "text": "支持加密货币的选项",
+      "status": "existing_translation_alias",
+      "matched_source": "Crypto-Friendly Option"
+    },
+    {
+      "text": "平台接受 USDT TRC 20，最低存款 USDT 1 起。",
+      "status": "existing_translation_alias",
+      "matched_source": "USDT TRC 20 is accepted at our platform. Minimum deposit starts at USDT 1."
+    },
+    {
+      "text": "快速安全的提款系统",
+      "status": "existing_translation_alias",
+      "matched_source": "Fast & Secure Withdrawal System"
+    },
+    {
+      "text": "提款快速且采用 SSL 加密，提供 24/7 提款审批，最低提款 RM25。",
+      "status": "existing_translation_alias",
+      "matched_source": "Your withdrawals are quick and SSL-encrypted. Get 24/7 withdrawal approval. Minimum withdrawal limit is RM25."
+    },
+    {
+      "text": "为什么 Jeslot88 是领先的免费彩金娱乐场",
+      "status": "existing_translation_alias",
+      "matched_source": "Why Jeslot88 is a Leading Free Credit Casino"
+    },
+    {
+      "text": "希望投注物有所值？Jeslot88 是深受马来西亚玩家信赖与喜爱的免费彩金娱乐场。以下是我们的优势：",
+      "status": "existing_translation_alias",
+      "matched_source": "Do you want real value for your bets? Jeslot88 is a top free credit casino that Malaysian players trust and love. Here’s why we stand out:"
+    },
+    {
+      "text": "免存款奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "No-Deposit Rewards"
+    },
+    {
+      "text": "：通过多项免费彩金自由、无风险地体验游戏。新会员免费彩金 RM20、365 天免费 RM10，以及每日应用免费 RM10。",
+      "status": "existing_translation_alias",
+      "matched_source": ": Explore games freely and risk-free with multiple free credit rewards. RM20 new member free credit, 365days free RM10, and daily apps free RM10."
+    },
+    {
+      "text": "每日奖金",
+      "status": "existing_translation_alias",
+      "matched_source": "Daily Bonuses"
+    },
+    {
+      "text": "：可领取 20% 至 40% 每日奖金，或 365 每日免费彩金最高 RM10。简单轻松，尽享乐趣。",
+      "status": "existing_translation_alias",
+      "matched_source": ": You can claim 20% to 40% daily bonus or 365 daily free credit bonus up to RM10. No fuss, only fun."
+    },
+    {
+      "text": "低 Turnover 要求",
+      "status": "existing_translation_alias",
+      "matched_source": "Low Turnover"
+    },
+    {
+      "text": "：大多数奖金要求 1x 流水，部分完全没有 Turnover 要求。",
+      "status": "existing_translation_alias",
+      "matched_source": ": Most of these bonuses have a 1x wagering requirement. A few have no turnover requirement at even."
+    },
+    {
+      "text": "老虎机",
+      "status": "existing_translation_alias",
+      "matched_source": "Slot"
+    },
+    {
+      "text": "贴心奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "Friendly Rewards"
+    },
+    {
+      "text": "：新老会员均可持续领取优惠，包括 10 至 50 次免费旋转、10% 每周佣金、每日奖金，以及 365 天最高 RM10 免费彩金等。",
+      "status": "existing_translation_alias",
+      "matched_source": ": Whether you are a new member or an existing one, claim consistent promotions. Free spins from 10 to 50, 10% weekly commission, daily bonuses, free credit 365days up to RM10, etc."
+    },
+    {
+      "text": "持续优惠",
+      "status": "existing_translation_alias",
+      "matched_source": "Consistent Promotions"
+    },
+    {
+      "text": "：持续的优惠让老虎机、真人娱乐场和体育博彩爱好者宾至如归。玩家每天都有乐趣，享受公平奖励、不断的奖金与真实体验。",
+      "status": "existing_translation_alias",
+      "matched_source": ": Slot, live dealer, and sportsbook lovers feel at home with constant promotions. Players have something to enjoy every day. Fair rewards, non-stop bonuses, and real action."
+    },
+    {
+      "text": "玩家优先、可信安全的马来西亚在线娱乐场 — Jeslot88",
+      "status": "existing_translation_alias",
+      "matched_source": "Player-First, Trustworthy, and Secure Malaysian Online Casino- Jeslot88"
+    },
+    {
+      "text": "Jeslot88 在线娱乐场为追求安全游戏和真实奖励的玩家打造，提供 100% 安全可信保障与免费彩金。无风险、无压力地游戏。每日奖金、Android 应用、应用奖励、24/7 客服等应有尽有。专为马来西亚玩家设计，支持本地货币、快速提款与流畅游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "Jeslot88 online casino is built for those players who want safe gaming and real rewards. 100% security and trustworthiness with free credit bonuses are the best offerings. Play without risk and without any pressure. What’s lucrative? Daily bonuses, mobile app for Android, app bonus, 24/7 customer support, etc. Designed especially for Malaysian players, we offer local currency, fast withdrawals, and smooth gameplay."
+    },
+    {
+      "text": "还等什么？立即注册，今天就领取新会员 RM20 免费彩金！",
+      "status": "existing_translation_alias",
+      "matched_source": "Why wait? Register now to claim your new member free credit of RM20 today!"
+    },
+    {
+      "text": "Jeslot88 免费彩金娱乐场常见问题",
+      "status": "existing_translation_alias",
+      "matched_source": "FAQs About Jeslot88 Free Credit Casino"
+    },
+    {
+      "text": "Jeslot88 安全吗？",
+      "status": "existing_translation_alias",
+      "matched_source": "Is Jeslot88 safe?"
+    },
+    {
+      "text": "是的，这家马来西亚娱乐场由 PAGCOR 颁发牌照并监管运营。",
+      "status": "existing_translation_alias",
+      "matched_source": "Yes, PAGCOR licenses and regulates the operations of this Malaysian casino."
+    },
+    {
+      "text": "免费彩金如何使用？",
+      "status": "existing_translation_alias",
+      "matched_source": "How does free credit work?"
+    },
+    {
+      "text": "填写资料注册，用用户名和密码登录，进入奖金区，点击领取，将免费彩金存入钱包。",
+      "status": "existing_translation_alias",
+      "matched_source": "Register with your details, log in with your username and password, and go to the bonus section. Click on the claim to get the free credit in your wallet."
+    },
+    {
+      "text": "玩家能提取免费彩金的盈利吗？",
+      "status": "existing_translation_alias",
+      "matched_source": "Can players withdraw free credit winnings?"
+    },
+    {
+      "text": "可以，免费彩金的盈利可提取到银行账户。",
+      "status": "existing_translation_alias",
+      "matched_source": "Yes, you can withdraw the free credit winnings to your bank account."
+    },
+    {
+      "text": "免费彩金可以玩哪些游戏？",
+      "status": "existing_translation_alias",
+      "matched_source": "What games can I play with free credit?"
+    },
+    {
+      "text": "目前 Jeslot88 在线娱乐场仅允许老虎机游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "As of now, only slot games are allowed at Jeslot88 online casino."
+    },
+    {
+      "text": "手机版稳定吗？",
+      "status": "existing_translation_alias",
+      "matched_source": "Is the mobile version stable?"
+    },
+    {
+      "text": "您可在 Android 设备流畅、安全地游戏。",
+      "status": "existing_translation_alias",
+      "matched_source": "You can play games on your Android device seamlessly and safely."
+    },
+    {
+      "text": "2023-2026 JESLOT88 ©️ 保留所有权利。",
+      "status": "existing_translation_alias",
+      "matched_source": "2023-2026 JESLOT88 ©️ ALL RIGHTS RESERVED."
+    },
+    {
+      "text": "redeem",
+      "status": "existing_key"
+    },
+    {
+      "text": "奖金",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "question_answer",
+      "status": "existing_key"
+    },
+    {
+      "text": "聊天",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "欢迎来到 jes88",
+      "status": "existing_translation_alias",
+      "matched_source": "Welcome to jes88"
+    },
+    {
+      "text": "Premium Platform Experience",
+      "status": "existing_translation_alias",
+      "matched_source": "Pengalaman Platform Premium"
+    },
+    {
+      "text": "Get Started",
+      "status": "existing_translation_alias",
+      "matched_source": "Mula Sekarang"
+    },
+    {
+      "text": "REGISTER NOW",
+      "status": "existing_translation_alias",
+      "matched_source": "DAFTAR SEKARANG"
+    },
+    {
+      "text": "已经注册？",
+      "status": "missing_variant",
+      "matched_source": "Sudah ada akaun?"
+    },
+    {
+      "text": "Sign In",
+      "status": "missing_variant",
+      "matched_source": "Log Masuk"
+    },
+    {
+      "text": "VIP",
+      "status": "existing_key"
+    },
+    {
+      "text": "Toto",
+      "status": "existing_translation_alias",
+      "matched_source": "TOTO"
+    },
+    {
+      "text": "Free",
+      "status": "existing_translation_alias",
+      "matched_source": "Percuma"
+    },
+    {
+      "text": "游戏提示",
+      "status": "existing_translation_alias",
+      "matched_source": "Tip Permainan"
+    },
+    {
+      "text": "Apps",
+      "status": "existing_translation_alias",
+      "matched_source": "Aplikasi"
+    },
+    {
+      "text": "Heylink",
+      "status": "existing_key"
+    },
+    {
+      "text": "telegram",
+      "status": "existing_key"
+    },
+    {
+      "text": "语言",
+      "status": "existing_translation_alias",
+      "matched_source": "Bahasa"
+    },
+    {
+      "text": "关注我们",
+      "status": "existing_translation_alias",
+      "matched_source": "IKUT KAMI"
+    },
+    {
+      "text": "联系我们",
+      "status": "existing_translation_alias",
+      "matched_source": "Hubungi Kami"
+    },
+    {
+      "text": "个人资料与设置",
+      "status": "existing_translation_alias",
+      "matched_source": "Profile and Setting"
+    },
+    {
+      "text": "常问问题",
+      "status": "missing_variant",
+      "matched_source": "Soalan Lazim"
+    },
+    {
+      "text": "HK8MY",
+      "status": "existing_key"
+    },
+    {
+      "text": "BIGBOSSJUDI",
+      "status": "existing_key"
+    },
+    {
+      "text": "KEJAPJUDI",
+      "status": "existing_key"
+    },
+    {
+      "text": "JDSLOT88",
+      "status": "existing_key"
+    },
+    {
+      "text": "CANDY916",
+      "status": "existing_key"
+    },
+    {
+      "text": "www.jes882.net | Powered by 4D Gang .",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "BM",
+      "status": "existing_key"
+    },
+    {
+      "text": "CN",
+      "status": "existing_key"
+    },
+    {
+      "text": "EN",
+      "status": "existing_key"
+    },
+    {
+      "text": "🎰 账户与注册",
+      "status": "existing_translation_alias",
+      "matched_source": "🎰 Account and Registration"
+    },
+    {
+      "text": "如何注册 jes88 账户？",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana untuk mendaftar akaun jes88?"
+    },
+    {
+      "text": "注册时需要提供哪些信息？",
+      "status": "missing_variant",
+      "matched_source": "Apakah maklumat yang diperlukan semasa pendaftaran?"
+    },
+    {
+      "text": "忘记密码怎么办？",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana jika saya terlupa kata laluan?"
+    },
+    {
+      "text": "💰 存款与取款",
+      "status": "missing_variant",
+      "matched_source": "💰 Deposit & Pengeluaran"
+    },
+    {
+      "text": "存款方式有哪些？",
+      "status": "missing_variant",
+      "matched_source": "Apakah kaedah deposit yang tersedia?"
+    },
+    {
+      "text": "存款多久到账？",
+      "status": "missing_variant",
+      "matched_source": "Berapa lamakah masa deposit?"
+    },
+    {
+      "text": "取款处理时间是多久？",
+      "status": "missing_variant",
+      "matched_source": "Berapa lama masa pemprosesan pengeluaran?"
+    },
+    {
+      "text": "🎮 游戏与投注",
+      "status": "existing_translation_alias",
+      "matched_source": "🎮 Games and Betting"
+    },
+    {
+      "text": "有哪些游戏类型？",
+      "status": "existing_translation_alias",
+      "matched_source": "Apakah jenis permainan yang tersedia?"
+    },
+    {
+      "text": "如何参与Toto游戏？",
+      "status": "missing_variant",
+      "matched_source": "Bagaimana untuk menyertai permainan Toto?"
+    },
+    {
+      "text": "VIP会员有什么特权？",
+      "status": "missing_variant",
+      "matched_source": "Apakah keistimewaan ahli VIP?"
+    },
+    {
+      "text": "🎁 优惠与奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "🎁 Bonus & Promosi"
+    },
+    {
+      "text": "新会员有什么欢迎优惠？",
+      "status": "missing_variant",
+      "matched_source": "Apakah bonus selamat datang untuk ahli baru?"
+    },
+    {
+      "text": "如何领取免费奖励？",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana untuk menuntut hadiah percuma?"
+    },
+    {
+      "text": "🔒 安全与支持",
+      "status": "existing_translation_alias",
+      "matched_source": "🔒 Keselamatan & Sokongan"
+    },
+    {
+      "text": "如何联系客服？",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana untuk menghubungi sokongan pelanggan?"
+    },
+    {
+      "text": "平台安全性如何？",
+      "status": "missing_variant",
+      "matched_source": "Sejauh manakah keselamatan platform ini?"
+    },
+    {
+      "text": "What information is required for registration?",
+      "status": "missing_variant",
+      "matched_source": "Apakah maklumat yang diperlukan semasa pendaftaran?"
+    },
+    {
+      "text": "What if I forget my password?",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana jika saya terlupa kata laluan?"
+    },
+    {
+      "text": "💰 存款与提款",
+      "status": "existing_translation_alias",
+      "matched_source": "💰 Deposit & Pengeluaran"
+    },
+    {
+      "text": "What deposit methods are available?",
+      "status": "missing_variant",
+      "matched_source": "Apakah kaedah deposit yang tersedia?"
+    },
+    {
+      "text": "How long does a deposit take?",
+      "status": "existing_translation_alias",
+      "matched_source": "Berapa lamakah masa deposit?"
+    },
+    {
+      "text": "How long does withdrawal processing take?",
+      "status": "existing_translation_alias",
+      "matched_source": "Berapa lama masa pemprosesan pengeluaran?"
+    },
+    {
+      "text": "What types of games are available?",
+      "status": "missing_variant",
+      "matched_source": "Apakah jenis permainan yang tersedia?"
+    },
+    {
+      "text": "How to participate in Toto games?",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana untuk menyertai permainan Toto?"
+    },
+    {
+      "text": "What privileges do VIP members have?",
+      "status": "missing_variant",
+      "matched_source": "Apakah keistimewaan ahli VIP?"
+    },
+    {
+      "text": "新会员可获什么欢迎奖金？",
+      "status": "existing_translation_alias",
+      "matched_source": "What welcome bonus do new members get?"
+    },
+    {
+      "text": "How to claim free rewards?",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana untuk menuntut hadiah percuma?"
+    },
+    {
+      "text": "🔒 Security & Support",
+      "status": "existing_translation_alias",
+      "matched_source": "🔒 Keselamatan & Sokongan"
+    },
+    {
+      "text": "How to contact customer support?",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana untuk menghubungi sokongan pelanggan?"
+    },
+    {
+      "text": "How secure is the platform?",
+      "status": "existing_translation_alias",
+      "matched_source": "Sejauh manakah keselamatan platform ini?"
+    },
+    {
+      "text": "注册需要提供哪些信息？",
+      "status": "existing_translation_alias",
+      "matched_source": "Apakah maklumat yang diperlukan semasa pendaftaran?"
+    },
+    {
+      "text": "有哪些存款方式？",
+      "status": "existing_translation_alias",
+      "matched_source": "Apakah kaedah deposit yang tersedia?"
+    },
+    {
+      "text": "存款需要多长时间？",
+      "status": "existing_translation_alias",
+      "matched_source": "Berapa lamakah masa deposit?"
+    },
+    {
+      "text": "提款处理需要多长时间？",
+      "status": "existing_translation_alias",
+      "matched_source": "Berapa lama masa pemprosesan pengeluaran?"
+    },
+    {
+      "text": "如何参与 Toto 游戏？",
+      "status": "existing_translation_alias",
+      "matched_source": "Bagaimana untuk menyertai permainan Toto?"
+    },
+    {
+      "text": "VIP 会员有什么特权？",
+      "status": "existing_translation_alias",
+      "matched_source": "Apakah keistimewaan ahli VIP?"
+    },
+    {
+      "text": "新会员有什么欢迎奖励？",
+      "status": "existing_translation_alias",
+      "matched_source": "Apakah bonus selamat datang untuk ahli baru?"
+    },
+    {
+      "text": "Bagaimana untuk menuntut ganjaran percuma?",
+      "status": "missing_variant",
+      "matched_source": "Bagaimana untuk menuntut hadiah percuma?"
+    },
+    {
+      "text": "平台的安全性如何？",
+      "status": "existing_translation_alias",
+      "matched_source": "Sejauh manakah keselamatan platform ini?"
+    },
+    {
+      "text": "4D GUIDE",
+      "status": "existing_translation_alias",
+      "matched_source": "PANDUAN 4D"
+    },
+    {
+      "text": "立即下注 / BET NOW / BET SEKARANG",
+      "status": "existing_translation_alias",
+      "matched_source": "BET SEKARANG"
+    },
+    {
+      "text": "📖 投注指南",
+      "status": "existing_translation_alias",
+      "matched_source": "📖 Panduan Pertaruhan"
+    },
+    {
+      "text": "Pilih syarikat： M / P / T / S / B / K / W / H / E",
+      "status": "missing_variant",
+      "matched_source": "Pilih syarikat: M / P / T / S / B / K / W / H / E"
+    },
+    {
+      "text": "Masukkan nombor 4 digit （contoh：6869）",
+      "status": "missing_variant",
+      "matched_source": "Masukkan nombor 4 digit (contoh: 6869)"
+    },
+    {
+      "text": "Pilihan khas： BOX / RV / BH / IBOX / BT",
+      "status": "missing_variant",
+      "matched_source": "Pilihan khas: BOX / RV / BH / IBOX / BT"
+    },
+    {
+      "text": "Pilih jenis bet： BIG / SMALL / 4A / 3ABC / 3A",
+      "status": "missing_variant",
+      "matched_source": "Pilih jenis pertaruhan: BIG / SMALL / 4A / 3ABC / 3A"
+    },
+    {
+      "text": "点击 VERIFY",
+      "status": "existing_translation_alias",
+      "matched_source": "Klik VERIFY"
+    },
+    {
+      "text": "点击 CONFIRM / SUBMIT",
+      "status": "existing_translation_alias",
+      "matched_source": "Klik CONFIRM / SUBMIT"
+    },
+    {
+      "text": "Nota: Tiada Limit",
+      "status": "missing_variant",
+      "matched_source": "Nota: Tiada Had"
+    },
+    {
+      "text": "📖 快速下注教学",
+      "status": "missing_variant",
+      "matched_source": "📖 Panduan Pertaruhan Pantas"
+    },
+    {
+      "text": "选择公司： M / P / T / S / B / K / W / H / E",
+      "status": "existing_translation_alias",
+      "matched_source": "Pilih syarikat: M / P / T / S / B / K / W / H / E"
+    },
+    {
+      "text": "输入 4 位数号码 （例：6869）",
+      "status": "missing_variant",
+      "matched_source": "Masukkan nombor 4 digit (contoh: 6869)"
+    },
+    {
+      "text": "特别玩法： BOX / RV / BH / IBOX / BT",
+      "status": "missing_variant",
+      "matched_source": "Pilihan khas: BOX / RV / BH / IBOX / BT"
+    },
+    {
+      "text": "选择下注： BIG / SMALL / 4A / 3ABC / 3A",
+      "status": "missing_variant",
+      "matched_source": "Pilih jenis pertaruhan: BIG / SMALL / 4A / 3ABC / 3A"
+    },
+    {
+      "text": "点击 VERIFY 检查单子",
+      "status": "existing_translation_alias",
+      "matched_source": "Klik VERIFY untuk semak slip"
+    },
+    {
+      "text": "注意：无限投注",
+      "status": "missing_variant",
+      "matched_source": "Nota: Tiada Had Pertaruhan"
+    },
+    {
+      "text": "📖 Quick Bet Guide",
+      "status": "existing_translation_alias",
+      "matched_source": "📖 Panduan Pertaruhan Pantas"
+    },
+    {
+      "text": "Choose company： M / P / T / S / B / K / W / H / E",
+      "status": "missing_variant",
+      "matched_source": "Pilih syarikat: M / P / T / S / B / K / W / H / E"
+    },
+    {
+      "text": "Enter 4 digit number （example：6869）",
+      "status": "missing_variant",
+      "matched_source": "Masukkan nombor 4 digit (contoh: 6869)"
+    },
+    {
+      "text": "Optional play： BOX / RV / BH / IBOX / BT",
+      "status": "existing_translation_alias",
+      "matched_source": "Pilihan permainan: BOX / RV / BH / IBOX / BT"
+    },
+    {
+      "text": "Choose bet： BIG / SMALL / 4A / 3ABC / 3A",
+      "status": "missing_variant",
+      "matched_source": "Pilih jenis pertaruhan: BIG / SMALL / 4A / 3ABC / 3A"
+    },
+    {
+      "text": "Click VERIFY",
+      "status": "existing_translation_alias",
+      "matched_source": "Klik VERIFY"
+    },
+    {
+      "text": "Click CONFIRM / SUBMIT",
+      "status": "existing_translation_alias",
+      "matched_source": "Klik CONFIRM / SUBMIT"
+    },
+    {
+      "text": "Note : No Limit Bet",
+      "status": "missing_variant",
+      "matched_source": "Nota: Tiada Had Pertaruhan"
+    },
+    {
+      "text": "存款",
+      "status": "existing_translation_alias",
+      "matched_source": "Deposit"
+    },
+    {
+      "text": "4D",
+      "status": "existing_key"
+    },
+    {
+      "text": "HOME",
+      "status": "existing_key"
+    },
+    {
+      "text": "JESLOT88® Terms & Conditions apply. If found illegal betting, abnormal betting situation, bonus hunting, side betting, save free game inside game & deposit to withdraw, JESLOT88 shall freeze the deposit (including the amount of the profit and bonus), the system will automatically clear the balance to zero (0).",
+      "status": "existing_key"
+    },
+    {
+      "text": "Wide Selection of Slots, Live Casino & Sports Games",
+      "status": "existing_key"
+    },
+    {
+      "text": "Payouts at Jeslot88 are straightforward. No hassle, zero lags. Payments can be made using secure payment options like:",
+      "status": "existing_key"
+    },
+    {
+      "text": "Jeslot88 Online Casino Promotions & Free Credit Offers",
+      "status": "existing_key"
+    },
+    {
+      "text": "Sports Betting & In-Play Odds",
+      "status": "existing_key"
+    },
+    {
+      "text": "Fishing, Arcade & 4D Lottery Games",
+      "status": "existing_key"
+    },
+    {
+      "text": "Simple & Straightforward Steps to Register and Playing at Jeslot88",
+      "status": "existing_key"
+    },
+    {
+      "text": "Fast & Secure Withdrawal System",
+      "status": "existing_key"
+    },
+    {
+      "text": "手机号码",
+      "status": "existing_translation_alias",
+      "matched_source": "Nombor Telefon"
+    },
+    {
+      "text": "账号",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "密码",
+      "status": "existing_translation_alias",
+      "matched_source": "Kata Laluan"
+    },
+    {
+      "text": "Remember me",
+      "status": "existing_translation_alias",
+      "matched_source": "Ingat saya"
+    },
+    {
+      "text": "未有账号？",
+      "status": "missing_variant",
+      "matched_source": "Belum ada akaun?"
+    },
+    {
+      "text": "忘记密码",
+      "status": "existing_translation_alias",
+      "matched_source": "TERLUPA KATA LALUAN"
+    },
+    {
+      "text": "VIP | Monthly Deposit Bonus",
+      "status": "existing_translation_alias",
+      "matched_source": "VIP | Bonus Deposit Bulanan"
+    },
+    {
+      "text": "MYR ?",
+      "status": "existing_key"
+    },
+    {
+      "text": "VIP | Birthday Bonus",
+      "status": "existing_translation_alias",
+      "matched_source": "VIP | Bonus Hari Lahir"
+    },
+    {
+      "text": "VIP | Level Upgrade Bonus",
+      "status": "existing_translation_alias",
+      "matched_source": "VIP | Bonus Naik Tahap"
+    },
+    {
+      "text": "♠️新注册免费奖励（活动）",
+      "status": "existing_translation_alias",
+      "matched_source": "♠️FREE NEW REGISTER (EVENT)"
+    },
+    {
+      "text": "RM68",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♠️应用免费奖励 *6PM-8PM *（活动）",
+      "status": "existing_translation_alias",
+      "matched_source": "♠️APP FREE *6PM-8PM * (EVENT)"
+    },
+    {
+      "text": "RM30",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♠️365 免费彩金",
+      "status": "existing_translation_alias",
+      "matched_source": "♠️FREE CREDIT 365"
+    },
+    {
+      "text": "RM1",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♠️免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♠️FREE REWARD"
+    },
+    {
+      "text": "♠️幸运抽奖",
+      "status": "existing_translation_alias",
+      "matched_source": "♠️LUCKY DRAW"
+    },
+    {
+      "text": "♣️JILI 流水返水",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️JILI Rolling Rebate"
+    },
+    {
+      "text": "♣️免费分享奖金（活动）",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️FREE SHARE BONUS (EVENT)"
+    },
+    {
+      "text": "♣️免费分享奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️FREE SHARE BONUS"
+    },
+    {
+      "text": "RM0.50",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️下线第 1 次存款",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️DOWNLINE 1ST DEPOSIT"
+    },
+    {
+      "text": "RM5",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️电子钱包 RM5 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️E-WALLET RM5 FREE"
+    },
+    {
+      "text": "♣️电子钱包 RM10 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️E-WALLET RM10 FREE"
+    },
+    {
+      "text": "RM10",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️电子钱包 RM30 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️E-WALLET RM30 FREE"
+    },
+    {
+      "text": "♣️SYOK 返水 5 %（RM 10）",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️SYOK REBATE 5 % (RM 10)"
+    },
+    {
+      "text": "♣️SYOK 返水 5 %（RM 30）",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️SYOK REBATE 5 % (RM 30)"
+    },
+    {
+      "text": "RM1.50",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️SYOK 返水 5 %（RM 50）",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️SYOK REBATE 5 % (RM 50)"
+    },
+    {
+      "text": "RM2.50",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️JES88 充值 RM10 X3 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️JES88 TOPUP IN RM10 X3 FREE"
+    },
+    {
+      "text": "♣️JES88 充值 RM15 X3 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️JES88 TOPUP IN RM15 X3 FREE"
+    },
+    {
+      "text": "RM3",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️JES88 充值 RM20 X3 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️JES88 TOPUP IN RM20 X3 FREE"
+    },
+    {
+      "text": "♣️RTOPUP RM5 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️RTOPUP RM5 FREE"
+    },
+    {
+      "text": "♣️RTOPUP RM10 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️RTOPUP RM10 FREE"
+    },
+    {
+      "text": "♣️RTOPUP RM30 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️RTOPUP RM30 FREE"
+    },
+    {
+      "text": "♣️TELCO RM5 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️TELCO RM5 FREE"
+    },
+    {
+      "text": "♣️TELCO RM10 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️TELCO RM10 FREE"
+    },
+    {
+      "text": "♣️TELCO 欢迎奖金 50%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️TELCO WELCOME BONUS 50%"
+    },
+    {
+      "text": "♣️免 TURNOVER 20%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️NO TURNOVER 20%"
+    },
+    {
+      "text": "♣️免 TURNOVER 30%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️NO TURNOVER 30%"
+    },
+    {
+      "text": "♣️免 TURNOVER 40%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️NO TURNOVER 40%"
+    },
+    {
+      "text": "♣️存款 RM30 X3 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️IN RM30 X3 FREE"
+    },
+    {
+      "text": "RM8.88",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️存款 RM30 X7 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️IN RM30 X7 FREE"
+    },
+    {
+      "text": "RM18.88",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️存款 RM30 X12 免费奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️IN RM30 X12 FREE"
+    },
+    {
+      "text": "RM38.88",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "♣️欢迎奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️WELCOME BONUS"
+    },
+    {
+      "text": "♣️周末奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️WEEKEND BONUS"
+    },
+    {
+      "text": "♣️每日奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️DAILY BONUS"
+    },
+    {
+      "text": "♣️5% 无上限奖金",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️5% UNLIMITED BONUS"
+    },
+    {
+      "text": "♣️8% 无上限奖金",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️8% UNLIMITED BONUS"
+    },
+    {
+      "text": "♣️10% 无上限奖金",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️10% UNLIMITED BONUS"
+    },
+    {
+      "text": "♣️Telco 欢迎奖金 50%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️TELCO WELCOME BONUS 50%"
+    },
+    {
+      "text": "♣️免 Turnover 20%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️NO TURNOVER 20%"
+    },
+    {
+      "text": "♣️免 Turnover 30%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️NO TURNOVER 30%"
+    },
+    {
+      "text": "♣️免 Turnover 40%",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️NO TURNOVER 40%"
+    },
+    {
+      "text": "彩金",
+      "status": "missing_variant",
+      "matched_source": "KREDIT PERMAINAN"
+    },
+    {
+      "text": "VIP Monthly Bonus",
+      "status": "existing_translation_alias",
+      "matched_source": "Bonus Bulanan VIP"
+    },
+    {
+      "text": "Syarat Claim",
+      "status": "missing_variant",
+      "matched_source": "Syarat Tuntutan"
+    },
+    {
+      "text": "Bulanan Deposit Capai RM50 Keatas Ikut Tier Level",
+      "status": "missing_variant",
+      "matched_source": "Deposit bulanan RM50 ke atas, mengikut tahap"
+    },
+    {
+      "text": "领取上限",
+      "status": "existing_translation_alias",
+      "matched_source": "Had Tuntutan"
+    },
+    {
+      "text": "x1 / Monthly",
+      "status": "existing_translation_alias",
+      "matched_source": "x1 / Bulanan"
+    },
+    {
+      "text": "流水",
+      "status": "missing_variant",
+      "matched_source": "Jumlah Pertaruhan (Rollover)"
+    },
+    {
+      "text": "x3",
+      "status": "existing_translation_alias",
+      "matched_source": "X3"
+    },
+    {
+      "text": "Max.Withdraw",
+      "status": "missing_variant",
+      "matched_source": "Pengeluaran Maksimum"
+    },
+    {
+      "text": "Follow VIP Level x100",
+      "status": "existing_translation_alias",
+      "matched_source": "Ikut Tahap VIP x100"
+    },
+    {
+      "text": "条款与细则",
+      "status": "existing_translation_alias",
+      "matched_source": "TERM & CONDITION"
+    },
+    {
+      "text": "Only Allow To Play",
+      "status": "missing_variant",
+      "matched_source": "Hanya Boleh Main"
+    },
+    {
+      "text": "全部老虎机游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "ALL SLOT GAMES"
+    },
+    {
+      "text": "禁用游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "Banned Games"
+    },
+    {
+      "text": "点击这里",
+      "status": "existing_translation_alias",
+      "matched_source": "CLICK HERE"
+    },
+    {
+      "text": "Not Allow To Play",
+      "status": "missing_variant",
+      "matched_source": "Tidak Dibenarkan Main"
+    },
+    {
+      "text": "真人 / 桌面游戏 / 体育 / 彩票 / 捕鱼",
+      "status": "existing_translation_alias",
+      "matched_source": "LIVE / TABLE / SPORT / LOTTERY / FISHING"
+    },
+    {
+      "text": "不允许保留",
+      "status": "existing_translation_alias",
+      "matched_source": "Not Allow To Save"
+    },
+    {
+      "text": "免费游戏 / WILD / 红包 / 购买免费游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "FREE /WILD /ANGPAO /BUY FREE GAME"
+    },
+    {
+      "text": "不可混合使用",
+      "status": "existing_translation_alias",
+      "matched_source": "Tidak Boleh Campur"
+    },
+    {
+      "text": "红包 / 奖金 / 其他彩金",
+      "status": "existing_translation_alias",
+      "matched_source": "ANGPAO / BONUS / CREDIT LAIN"
+    },
+    {
+      "text": "Langgar Syarat Akan",
+      "status": "missing_variant",
+      "matched_source": "Melanggar syarat akan"
+    },
+    {
+      "text": "全部积分作废，不予退款",
+      "status": "existing_translation_alias",
+      "matched_source": "FORFEITED SEMUA POINT TANPA REFUND"
+    },
+    {
+      "text": "关闭",
+      "status": "existing_translation_alias",
+      "matched_source": "Close"
+    },
+    {
+      "text": "立即索取",
+      "status": "missing_variant",
+      "matched_source": "Tuntut Sekarang"
+    },
+    {
+      "text": "VIP Birthday Bonus",
+      "status": "existing_translation_alias",
+      "matched_source": "Bonus Hari Lahir VIP"
+    },
+    {
+      "text": "x1 / 每年",
+      "status": "existing_translation_alias",
+      "matched_source": "x1 / Tahun"
+    },
+    {
+      "text": "VIP Level Upgrade Bonus",
+      "status": "existing_translation_alias",
+      "matched_source": "Bonus Naik Tahap VIP"
+    },
+    {
+      "text": "x1 / Level",
+      "status": "existing_translation_alias",
+      "matched_source": "x1 / Tahap"
+    },
+    {
+      "text": "♠️欢迎回归奖金",
+      "status": "existing_translation_alias",
+      "matched_source": "♠️WELCOME BACK BONUS"
+    },
+    {
+      "text": "X1",
+      "status": "existing_key"
+    },
+    {
+      "text": "Max.Bonus",
+      "status": "missing_variant",
+      "matched_source": "Bonus Maksimum"
+    },
+    {
+      "text": "Rm 30",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Min.Deposit",
+      "status": "missing_variant",
+      "matched_source": "Deposit Minimum"
+    },
+    {
+      "text": "Rm 10",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Turnover（达标要求）",
+      "status": "existing_translation_alias",
+      "matched_source": "Turnover"
+    },
+    {
+      "text": "FOR OLD REGISTER MEMBER ONLY",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "( Register Before 2026 - 03 - 01 )",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "Terms And Conditions",
+      "status": "existing_translation_alias",
+      "matched_source": "Terma dan Syarat"
+    },
+    {
+      "text": "ALL SLOT GAME",
+      "status": "missing_variant",
+      "matched_source": "ALL SLOT GAMES"
+    },
+    {
+      "text": "VPOWER / MARIO / 禁用游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "VPOWER /MARIO /BANNED GAME"
+    },
+    {
+      "text": "成功企业",
+      "status": "existing_translation_alias",
+      "matched_source": "Syarikat Jaya"
+    },
+    {
+      "text": "Syarikat Jaya Trusted Team Malaysia：立即领取免费彩金",
+      "status": "existing_translation_alias",
+      "matched_source": "Syarikat Jaya Trusted Team Malaysia : Claim Your Free Credit Now"
+    },
+    {
+      "text": "24 小时免费奖金",
+      "status": "existing_translation_alias",
+      "matched_source": "FREE 24 JAM BONUS"
+    },
+    {
+      "text": "新平台",
+      "status": "existing_translation_alias",
+      "matched_source": "NEW PLATFORM"
+    },
+    {
+      "text": "开始游戏",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "CLICK HERE TO CHECK",
+      "status": "existing_translation_alias",
+      "matched_source": "KLIK SINI UNTUK SEMAK"
+    },
+    {
+      "text": "每日领取免费彩金",
+      "status": "existing_translation_alias",
+      "matched_source": "CLAIM FREE CREDIT SETIAP HARI"
+    },
+    {
+      "text": "Rm 68",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Min.Withdraw",
+      "status": "missing_variant",
+      "matched_source": "Pengeluaran Minimum"
+    },
+    {
+      "text": "Rm 1200",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 18.8",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "下载",
+      "status": "existing_translation_alias",
+      "matched_source": "Muat Turun"
+    },
+    {
+      "text": "JESLOT88 应用程序",
+      "status": "existing_translation_alias",
+      "matched_source": "JESLOT88 APP"
+    },
+    {
+      "text": "To Claim",
+      "status": "missing_variant",
+      "matched_source": "Tuntut"
+    },
+    {
+      "text": "Wallet Must Below RM0.10 To Claim",
+      "status": "missing_variant",
+      "matched_source": "Baki dompet mesti di bawah RM0.10 untuk menuntut."
+    },
+    {
+      "text": "免费彩金仅可在领取后的 3 天内提款。",
+      "status": "existing_translation_alias",
+      "matched_source": "FREE CREDIT HANYA BOLEH CUCI DALAM 3 HARI DARI MASA CLAIM"
+    },
+    {
+      "text": "1 个姓名、1 个账号，仅可领取 1 次",
+      "status": "existing_translation_alias",
+      "matched_source": "1 NAMA 1 ID CLAIM 1 KALI SAHAJA"
+    },
+    {
+      "text": "TNG 和 BOOST WALLET 提款须提交身份证、驾照或护照验证（仅首次提款）。",
+      "status": "existing_translation_alias",
+      "matched_source": "TNG & BOOST WALLET Cuci Perlu Hantar IC LESEN ATAU PASSPORT Untuk Verify ( Pertama Kali Cuci Sahaja )"
+    },
+    {
+      "text": "银行账号／姓名信息错误将导致全部积分作废。",
+      "status": "existing_translation_alias",
+      "matched_source": "BANK ACCOUNT / NAMA INFO SALAH AKAN FORFEITED SEMUA POINT"
+    },
+    {
+      "text": "免费彩金提款不提供凭证及明细。",
+      "status": "existing_translation_alias",
+      "matched_source": "FREE CREDIT CUCI TIADA RESIT & TIADA DETAIL."
+    },
+    {
+      "text": "仅限 ACEWIN / MEGAH5 / RICHGAMING / WF GAMING 活动",
+      "status": "existing_translation_alias",
+      "matched_source": "ACEWIN /MEGAH5 /RICHGAMING /WF GAMING EVENT SAHAJA"
+    },
+    {
+      "text": "MARIO /VPOWER /MEGA888 /PUSSY888 /禁用游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "MARIO /VPOWER /MEGA888 /PUSSY888 /BANNED GAME"
+    },
+    {
+      "text": "全部积分作废。",
+      "status": "existing_translation_alias",
+      "matched_source": "FORFEITED SEMUA POINT"
+    },
+    {
+      "text": "x1 / Daily",
+      "status": "existing_translation_alias",
+      "matched_source": "x1 / Harian"
+    },
+    {
+      "text": "Rm 1000",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "TERM & CONDITION",
+      "status": "existing_key"
+    },
+    {
+      "text": "Rm 1",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 100",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "5% ( RM3000 )",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "（12AM 重置）",
+      "status": "existing_translation_alias",
+      "matched_source": "( 12AM Reset )"
+    },
+    {
+      "text": "Rm 5",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "10% ( Rm 3,000 )",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "要求",
+      "status": "existing_translation_alias",
+      "matched_source": "Keperluan"
+    },
+    {
+      "text": "每充值 Rm10 获得 1 个号码，充值 Rm30 获得 3 个号码",
+      "status": "existing_translation_alias",
+      "matched_source": "Setiap Topup Rm10 Dapat 1 Nombor, Topup Rm30 Dapat 3 Nombor"
+    },
+    {
+      "text": "4D Result",
+      "status": "existing_translation_alias",
+      "matched_source": "KEPUTUSAN 4D"
+    },
+    {
+      "text": "TOTO",
+      "status": "existing_key"
+    },
+    {
+      "text": "Rm 888",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Check Lucky Draw Number",
+      "status": "existing_translation_alias",
+      "matched_source": "Semak Nombor Cabutan Bertuah"
+    },
+    {
+      "text": "VPOWER /MARIO /ADVP /禁用游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "VPOWER /MARIO /ADVP /BANNED GAME"
+    },
+    {
+      "text": "Turnover 达标要求／投注流水",
+      "status": "existing_translation_alias",
+      "matched_source": "Turnover / Rollover"
+    },
+    {
+      "text": "最低／最高提款",
+      "status": "existing_translation_alias",
+      "matched_source": "Min / Max.Withdraw"
+    },
+    {
+      "text": "x200 / RM 888",
+      "status": "existing_key"
+    },
+    {
+      "text": "Join Telegram Free",
+      "status": "missing_variant",
+      "matched_source": "Sertai Telegram Percuma"
+    },
+    {
+      "text": "条款",
+      "status": "existing_translation_alias",
+      "matched_source": "Syarat"
+    },
+    {
+      "text": "Must Join Telegram",
+      "status": "existing_translation_alias",
+      "matched_source": "Mesti Sertai Telegram"
+    },
+    {
+      "text": "Rm 800",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM30／每位下线",
+      "status": "existing_translation_alias",
+      "matched_source": "Rm 30 / Downline"
+    },
+    {
+      "text": "（必须成功注册）",
+      "status": "existing_translation_alias",
+      "matched_source": "( Must Register Succes )"
+    },
+    {
+      "text": "x30",
+      "status": "existing_key"
+    },
+    {
+      "text": "5% ( Rm 3,000 )",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Spinx888 免费 Rm10",
+      "status": "existing_translation_alias",
+      "matched_source": "Spinx888 Free Rm10"
+    },
+    {
+      "text": "奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "Ganjaran"
+    },
+    {
+      "text": "Claim Condition",
+      "status": "missing_variant",
+      "matched_source": "Syarat Tuntutan"
+    },
+    {
+      "text": "无上限",
+      "status": "existing_translation_alias",
+      "matched_source": "Unlimited"
+    },
+    {
+      "text": "Min/Max Deposit",
+      "status": "existing_translation_alias",
+      "matched_source": "Deposit Min/Maks"
+    },
+    {
+      "text": "Max. Withdraw",
+      "status": "missing_variant",
+      "matched_source": "Pengeluaran Maksimum"
+    },
+    {
+      "text": "RM100",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "X5",
+      "status": "existing_key"
+    },
+    {
+      "text": "仅限 SPINX888 老虎機",
+      "status": "existing_translation_alias",
+      "matched_source": "SPINX888 SLOT SAHAJA"
+    },
+    {
+      "text": "BIGBOSSJUDI Terms & Conditions apply. If found illegal betting, abnormal betting situation, bonus hunting, side betting, save free game inside game & deposit to withdraw, BIGBOSSJUDI shall freeze the deposit (including the amount of the profit and bonus), the system will automatically clear the balance to zero (0).",
+      "status": "existing_key"
+    },
+    {
+      "text": "x5",
+      "status": "existing_translation_alias",
+      "matched_source": "X5"
+    },
+    {
+      "text": "适用 BIGBOSSJUDI 条款与条件。如发现违规投注、异常投注、套取奖励、对冲投注、在游戏内保留免费游戏或存款后直接提款等行为，BIGBOSSJUDI 将冻结存款（包括盈利及奖励），系统会自动将余额清零（0）。",
+      "status": "existing_translation_alias",
+      "matched_source": "BIGBOSSJUDI Terms & Conditions apply. If found illegal betting, abnormal betting situation, bonus hunting, side betting, save free game inside game & deposit to withdraw, BIGBOSSJUDI shall freeze the deposit (including the amount of the profit and bonus), the system will automatically clear the balance to zero (0)."
+    },
+    {
+      "text": "RM50",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Spinx888 免费 Rm20",
+      "status": "existing_translation_alias",
+      "matched_source": "Spinx888 Free Rm20"
+    },
+    {
+      "text": "RM20",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Spinx888 365 免费彩金",
+      "status": "existing_translation_alias",
+      "matched_source": "Spinx888 Free credit 365"
+    },
+    {
+      "text": "x1（每日）",
+      "status": "existing_translation_alias",
+      "matched_source": "x1 (Daily)"
+    },
+    {
+      "text": "Rm 300",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "SPINX888 EVENT SAHAJA",
+      "status": "missing_variant",
+      "matched_source": "ACARA SPINX888 SAHAJA"
+    },
+    {
+      "text": "♣️2 天输赢回扣",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️2 Days Win Lose Rebate"
+    },
+    {
+      "text": "Lose Rebate",
+      "status": "existing_translation_alias",
+      "matched_source": "Rebat Kalah"
+    },
+    {
+      "text": "3% / Day",
+      "status": "existing_translation_alias",
+      "matched_source": "3% / Hari"
+    },
+    {
+      "text": "Win Rebate",
+      "status": "existing_translation_alias",
+      "matched_source": "Rebat Menang"
+    },
+    {
+      "text": "0.1% / Day",
+      "status": "existing_translation_alias",
+      "matched_source": "0.1% / Hari"
+    },
+    {
+      "text": "Tempoh Rebate",
+      "status": "missing_variant",
+      "matched_source": "Tempoh Rebat"
+    },
+    {
+      "text": "2 Days",
+      "status": "existing_translation_alias",
+      "matched_source": "2 Hari"
+    },
+    {
+      "text": "流水 / Turnover",
+      "status": "existing_translation_alias",
+      "matched_source": "Rollover / Turnover"
+    },
+    {
+      "text": "2 天内赢利 RM1000，可获得 RM1（0.1%）。",
+      "status": "existing_translation_alias",
+      "matched_source": "Anda menang RM1000, akan menerima RM1 (0.1%) untuk 2 hari."
+    },
+    {
+      "text": "若亏损 RM100，将获得 2 天的 RM2（3%）奖励。",
+      "status": "existing_translation_alias",
+      "matched_source": "Anda kalah RM100, akan menerima RM2 (3%) untuk 2 hari."
+    },
+    {
+      "text": "Wallet Must Below RM0.10 To Claim.",
+      "status": "existing_translation_alias",
+      "matched_source": "Baki dompet mesti di bawah RM0.10 untuk menuntut."
+    },
+    {
+      "text": "♣️每周佣金",
+      "status": "existing_translation_alias",
+      "matched_source": "♣️Weekly Commission"
+    },
+    {
+      "text": "佣金奖励",
+      "status": "existing_translation_alias",
+      "matched_source": "Commission Bonus"
+    },
+    {
+      "text": "最低提款",
+      "status": "existing_translation_alias",
+      "matched_source": "Min. Withdraw"
+    },
+    {
+      "text": "Rm 25",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "每周一（12AM）",
+      "status": "existing_translation_alias",
+      "matched_source": "Setiap Minggu Hari Isnin (12AM)"
+    },
+    {
+      "text": "x1 每日",
+      "status": "existing_translation_alias",
+      "matched_source": "x1 Daily"
+    },
+    {
+      "text": "最低 / 最高存款",
+      "status": "missing_variant",
+      "matched_source": "Deposit Min/Maks"
+    },
+    {
+      "text": "（电子钱包 / TNG PIN）",
+      "status": "existing_translation_alias",
+      "matched_source": "( E-WALLET / TNG PIN )"
+    },
+    {
+      "text": "Rm100",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm200",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm600",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM 25",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM 50",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 50",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM 100",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm5",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 20",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "（3 次）",
+      "status": "existing_translation_alias",
+      "matched_source": "( 3Kali )"
+    },
+    {
+      "text": "RM 60",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm3",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 15",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm1",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "RM 30",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "（接受电子钱包、银行转账、TNG Pin）",
+      "status": "existing_translation_alias",
+      "matched_source": "( Accept E-Wallet , Banking , TNG Pin )"
+    },
+    {
+      "text": "（仅接受 Telco Pin）",
+      "status": "existing_translation_alias",
+      "matched_source": "( Accept Telco Pin Only )"
+    },
+    {
+      "text": "Cuci Tolak",
+      "status": "missing_variant",
+      "matched_source": "Potongan Semasa Cuci"
+    },
+    {
+      "text": "示例：最后一笔存款 Rm5 x200 = Rm1,000",
+      "status": "existing_translation_alias",
+      "matched_source": "Contoh : Last Deposit Rm5 x200 = Rm1,000"
+    },
+    {
+      "text": "( Cuci Rm1,000 Dapat Rm800",
+      "status": "missing_variant",
+      "matched_source": "(Cuci RM1000 Dapat RM800)"
+    },
+    {
+      "text": "Last Deposit Rm5 x200 = Rm1,000",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "( Cuci Rm2,000 Dapat Rm800",
+      "status": "missing_variant",
+      "matched_source": "(Cuci RM2000 Dapat RM800)"
+    },
+    {
+      "text": "仅限游玩",
+      "status": "existing_translation_alias",
+      "matched_source": "Allow To Play"
+    },
+    {
+      "text": "全部游戏",
+      "status": "existing_translation_alias",
+      "matched_source": "SEMUA PERMAINAN"
+    },
+    {
+      "text": "( Cuci Rm1,000 Dapat Rm700",
+      "status": "missing_variant",
+      "matched_source": "(Cuci RM1000 Dapat RM700)"
+    },
+    {
+      "text": "( Cuci Rm2,000 Dapat Rm700",
+      "status": "missing_variant",
+      "matched_source": "(Cuci RM2000 Dapat RM700)"
+    },
+    {
+      "text": "( Cuci Rm1,000 Dapat Rm600",
+      "status": "missing_variant",
+      "matched_source": "(Cuci RM1000 Dapat RM600)"
+    },
+    {
+      "text": "( Cuci Rm2,000 Dapat Rm600",
+      "status": "missing_variant",
+      "matched_source": "(Cuci RM2000 Dapat RM600)"
+    },
+    {
+      "text": "Rm 8.88",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 30 Ke Atas x3 Kali",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "Rm 18.88",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 30 Ke Atas x7 Kali",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "Rm 38.88",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "Rm 30 Ke Atas x12 Kali",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "Rm 40",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "x2",
+      "status": "existing_key"
+    },
+    {
+      "text": "x1 / Weekly",
+      "status": "missing_variant",
+      "matched_source": "x1 / Minggu"
+    },
+    {
+      "text": "Rm 60",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "（仅限首次充值领取）",
+      "status": "existing_translation_alias",
+      "matched_source": "( For 1st Topup Claim Only )"
+    },
+    {
+      "text": "x1.5",
+      "status": "existing_key"
+    },
+    {
+      "text": "Rm 80",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "适用 KEJAPJUDI® 条款与细则。若发现非法投注、异常投注、套取奖金、旁注、在游戏内保留免费游戏或存款后直接提款，KEJAPJUDI 将冻结存款（包括盈利及奖金），系统会自动将余额清零（0）。",
+      "status": "existing_translation_alias",
+      "matched_source": "KEJAPJUDI® Terms & Conditions apply. If found illegal betting, abnormal betting situation, bonus hunting, side betting, save free game inside game & deposit to withdraw, KEJAPJUDI shall freeze the deposit (including the amount of the profit and bonus), the system will automatically clear the balance to zero (0)."
+    },
+    {
+      "text": "Rm 200",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "评分&小费",
+      "status": "missing_variant",
+      "matched_source": "Penilaian & Tip"
+    },
+    {
+      "text": "对我们的客户服务满意吗？",
+      "status": "missing_variant",
+      "matched_source": "Puas Hati Dengan Khidmat Pelanggan Kami?"
+    },
+    {
+      "text": "5:30am",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "JESLOT88 ⚡⚡⚡ 博彩速递",
+      "status": "existing_key"
+    },
+    {
+      "text": "欢迎来到",
+      "status": "existing_translation_alias",
+      "matched_source": "Selamat Datang ke"
+    },
+    {
+      "text": "CLICK",
+      "status": "existing_translation_alias",
+      "matched_source": "KLIK"
+    },
+    {
+      "text": "HERE",
+      "status": "existing_translation_alias",
+      "matched_source": "SINI"
+    },
+    {
+      "text": "FOR REGISTER",
+      "status": "missing_variant",
+      "matched_source": "UNTUK PENDAFTARAN"
+    },
+    {
+      "text": "💡HOW TO",
+      "status": "existing_translation_alias",
+      "matched_source": "💡CARA"
+    },
+    {
+      "text": "WhatsApp Register",
+      "status": "existing_translation_alias",
+      "matched_source": "Daftar Melalui WhatsApp"
+    },
+    {
+      "text": "💡存款方式",
+      "status": "existing_translation_alias",
+      "matched_source": "💡CARA DEPOSIT"
+    },
+    {
+      "text": "网上转账与电子钱包",
+      "status": "existing_translation_alias",
+      "matched_source": "Online Transfer Dan E-Wallet"
+    },
+    {
+      "text": "Telco Pin",
+      "status": "existing_key"
+    },
+    {
+      "text": "💡DOWNLINE",
+      "status": "existing_translation_alias",
+      "matched_source": "💡AHLI BAWAHAN"
+    },
+    {
+      "text": "Share Dpt 5% Comission",
+      "status": "missing_variant",
+      "matched_source": "Kongsi untuk Dapatkan Komisen 5%"
+    },
+    {
+      "text": "user hanya",
+      "status": "missing_variant",
+      "matched_source": "pengguna hanya"
+    },
+    {
+      "text": "ID",
+      "status": "existing_key"
+    },
+    {
+      "text": "NAMA ID",
+      "status": "new_translation",
+      "matched_source": null
+    },
+    {
+      "text": "必须与其一致：",
+      "status": "existing_translation_alias",
+      "matched_source": "mesti sama dengan"
+    },
+    {
+      "text": "NAMA BANK ACCOUNT",
+      "status": "missing_variant",
+      "matched_source": "NAMA AKAUN BANK"
+    },
+    {
+      "text": "📣 每周星期",
+      "status": "existing_translation_alias",
+      "matched_source": "📣 Setiap Minggu Hari"
+    },
+    {
+      "text": "星期一 12AM",
+      "status": "existing_translation_alias",
+      "matched_source": "Isnin 12AM"
+    },
+    {
+      "text": "Commission 5%",
+      "status": "existing_translation_alias",
+      "matched_source": "Komisen 5%"
+    },
+    {
+      "text": "星期四 12AM",
+      "status": "existing_translation_alias",
+      "matched_source": "Khamis 12AM"
+    },
+    {
+      "text": "Rebate 5%",
+      "status": "existing_translation_alias",
+      "matched_source": "Rebat 5%"
+    },
+    {
+      "text": "📣 我们接受",
+      "status": "existing_translation_alias",
+      "matched_source": "📣 Kami Terima"
+    },
+    {
+      "text": "Online Transfer | BANK IN | QR Code | TNG PIN | Telco PIN",
+      "status": "existing_translation_alias",
+      "matched_source": "Pindahan Dalam Talian | DEPOSIT BANK | Kod QR | TNG PIN | Telco PIN"
+    },
+    {
+      "text": "OFFICIAL WEBSITE",
+      "status": "existing_translation_alias",
+      "matched_source": "LAMAN WEB RASMI"
+    },
+    {
+      "text": "https://jeslot88.org",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "https://jeslot88.app",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "https://jeslot88.xyz",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "https://jeslot88.pro",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "通知",
+      "status": "existing_translation_alias",
+      "matched_source": "NOTIS"
+    },
+    {
+      "text": "Kalau",
+      "status": "missing_variant",
+      "matched_source": "Jika"
+    },
+    {
+      "text": "不一致",
+      "status": "existing_translation_alias",
+      "matched_source": "Tidak Sama"
+    },
+    {
+      "text": "NAMA BANK AKAUN",
+      "status": "missing_variant",
+      "matched_source": "NAMA AKAUN BANK"
+    },
+    {
+      "text": "Tidak Dapat Cuci.",
+      "status": "missing_variant",
+      "matched_source": "Tidak Boleh Cuci."
+    },
+    {
+      "text": "- 如违反其中任一规定",
+      "status": "existing_translation_alias",
+      "matched_source": "- Jika langgar salah satu kesalahan"
+    },
+    {
+      "text": "GAME CREDIT",
+      "status": "existing_translation_alias",
+      "matched_source": "KREDIT PERMAINAN"
+    },
+    {
+      "text": "akan kena",
+      "status": "missing_variant",
+      "matched_source": "akan dikenakan"
+    },
+    {
+      "text": "Forfeit",
+      "status": "existing_translation_alias",
+      "matched_source": "Lucut Hak"
+    },
+    {
+      "text": "Tips Game / Cuci Gambar",
+      "status": "missing_variant",
+      "matched_source": "Tip Permainan / Gambar Pengeluaran"
+    },
+    {
+      "text": "Join Channel -",
+      "status": "existing_translation_alias",
+      "matched_source": "Sertai Saluran -"
+    },
+    {
+      "text": "https://t.me/jeslot88",
+      "status": "preserved_dynamic_or_identifier"
+    },
+    {
+      "text": "APPs Download",
+      "status": "missing_variant",
+      "matched_source": "Download App"
+    },
+    {
+      "text": "DOWNLOAD NOW",
+      "status": "existing_translation_alias",
+      "matched_source": "MUAT TURUN SEKARANG"
+    },
+    {
+      "text": "4DGANG NUMBER",
+      "status": "existing_translation_alias",
+      "matched_source": "NOMBOR 4DGANG"
+    },
+    {
+      "text": "GANG",
+      "status": "existing_key"
+    },
+    {
+      "text": "https://t.ly/BIGLUCKY",
+      "status": "preserved_dynamic_or_identifier"
+    }
+  ]
+}
